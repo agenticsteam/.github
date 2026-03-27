@@ -72,7 +72,7 @@ We believe the future belongs to organizations that combine:
 - Labs: [labs@agenticsteam.xyz](mailto:labs@agenticsteam.xyz)
 - Website: [agenticsteam.xyz](https://agenticsteam.xyz)
 - LinkedIn: [Agentic STEAM](https://www.linkedin.com/company/agentic-steam)
-- Business Inquiries: [Agentic STEAM Partners](mailto:hello@agenticsteam.xyz)
+- Business Inquiries: [hello@agenticsteam.xyz](mailto:hello@agenticsteam.xyz)
 - Founder: [Kleyer Sosa Mazier](mailto:kleyer@agenticsteam.xyz)
 ---
 

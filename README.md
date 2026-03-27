@@ -69,11 +69,10 @@ We believe the future belongs to organizations that combine:
 
 ## Contact
 
+- Business inquiries: [hello@agenticsteam.xyz](mailto:hello@agenticsteam.xyz)
 - Labs: [labs@agenticsteam.xyz](mailto:labs@agenticsteam.xyz)
 - Website: [agenticsteam.xyz](https://agenticsteam.xyz)
 - LinkedIn: [Agentic STEAM](https://www.linkedin.com/company/agentic-steam)
-- Business Inquiries: [hello@agenticsteam.xyz](mailto:hello@agenticsteam.xyz)
-- Founder: [Kleyer Sosa Mazier](mailto:kleyer@agenticsteam.xyz)
 ---
 
 **Agentic STEAM Labs**  
